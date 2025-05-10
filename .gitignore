@@ -1,0 +1,47 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Environment config or secrets (if any)
+.env
+*.env
+
+# Compiled files
+*.so
+*.out
+*.a
+*.o
+
+# Test coverage
+htmlcov/
+.coverage
+.cache/
+nosetests.xml
+coverage.xml
+
+# Jupyter Notebook outputs (optional, if you use nbconvert)
+*.nbconvert.ipynb
