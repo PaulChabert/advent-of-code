@@ -1,1 +1,1 @@
-curl --cookie "session=53616c7465645f5fae85bdbfb4ba753a83306ab5a783c629001d93d112b4443e08d5da7e690feabbf039762a1f9692037c05144f97273910ca44bd7f9a32a014" https://adventofcode.com/2024/day/1/input -o input.txt
+curl --cookie "session=53616c7465645f5fae85bdbfb4ba753a83306ab5a783c629001d93d112b4443e08d5da7e690feabbf039762a1f9692037c05144f97273910ca44bd7f9a32a014" https://adventofcode.com/2024/day/1/input -o input.txta
